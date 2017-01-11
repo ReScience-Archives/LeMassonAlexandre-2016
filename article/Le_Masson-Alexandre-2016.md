@@ -27,10 +27,10 @@ Publication:
   issue:     "**1**"
   date:      Dec 2016
 Repository:
-  article:   "https://github.com/ReScience-Archives/Le_Masson-Alexandre-2016/article"
-  code:      "https://github.com/ReScience-Archives/Le_Masson-Alexandre-2016/code"
-  data:      "https://github.com/ReScience-Archives/Le_Masson-Alexandre-2016/data"
-  notebook:  "https://github.com/ReScience-Archives/Le_Masson-Alexandre-2016/notebook"
+  article:   "https://github.com/ReScience-Archives/Le_Masson-Alexandre-2016/tree/master/article"
+  code:      "https://github.com/ReScience-Archives/Le_Masson-Alexandre-2016/tree/master/code"
+  data:      "https://github.com/ReScience-Archives/Le_Masson-Alexandre-2016/tree/master/data"
+  notebook:  "https://github.com/ReScience-Archives/Le_Masson-Alexandre-2016/tree/master/notebook"
 Reproduction:
   - "How Attention Can Create Synaptic Tags for the Learning of Working Memories in Sequential Tasks,
      J. Rombouts, M. Bohte and P. Roelfsema (2015), PLoS Computational Biology 11.3, e1004060. DOI: 10.1371/journal.pcbi.1004060"
