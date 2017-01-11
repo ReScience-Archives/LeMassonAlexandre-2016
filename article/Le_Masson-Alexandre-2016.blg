@@ -1,0 +1,15 @@
+[0] Config.pm:340> INFO - This is Biber 2.4
+[1] Config.pm:343> INFO - Logfile is 'Le_Masson-Alexandre-2016.blg'
+[77] biber:287> INFO - === Wed Jan 11, 2017, 15:58:43
+[198] Biber.pm:348> INFO - Reading 'Le_Masson-Alexandre-2016.bcf'
+[367] Biber.pm:742> INFO - Found 7 citekeys in bib section 0
+[374] Biber.pm:3151> INFO - Processing section 0
+[428] Biber.pm:3308> INFO - Looking for bibtex format file 'Le_Masson-Alexandre-2016.bib' for section 0
+[453] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[472] bibtex.pm:974> INFO - Found BibTeX data source 'Le_Masson-Alexandre-2016.bib'
+[671] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[672] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[672] Biber.pm:3028> INFO - Sorting list 'nty/global' of type 'entry' with scheme 'nty' and locale 'en-US'
+[672] Biber.pm:3032> INFO - No sort tailoring available for locale 'en-US'
+[684] bbl.pm:519> INFO - Writing 'Le_Masson-Alexandre-2016.bbl' with encoding 'UTF-8'
+[713] bbl.pm:615> INFO - Output to Le_Masson-Alexandre-2016.bbl
